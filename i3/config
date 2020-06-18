@@ -41,6 +41,9 @@ bindsym Mod1+g exec brave-browser
 #start nautilus
 bindsym Mod1+n exec nautilus
 
+#start evince pdfviewer
+bindsym $mod+p exec evince
+
 # kill focused window
 bindsym Mod1+q kill
 
