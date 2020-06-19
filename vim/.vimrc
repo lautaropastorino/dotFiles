@@ -52,7 +52,8 @@ let g:netrw_winsize = 25
 nmap <S-Enter> O<Esc>
 nmap <CR> o<Esc>
 
-
+" Salir del modo insert
+imap jj <Esc>
 
 
 
